@@ -1,0 +1,12 @@
+.header-section {
+    background-image: url(images/donation10.jpg);
+    background-repeat: no-repeat;
+    color: cornsilk;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+    color: white;
+}
