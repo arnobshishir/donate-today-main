@@ -110,3 +110,54 @@ hr {
     width: 600px;
     margin: 0 auto;
 }
+
+.our-donate-plan {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.top-donate-plan h2 {
+    font-size: 30px;
+    margin-top: 60px;
+    margin-bottom: 10px;
+}
+
+.top-donate-plan p {
+    margin: 50px 0;
+}
+
+.donate-box {
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.donate-box1 {
+
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    text-align: center;
+}
+
+.donate-box2 {
+
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+    text-align: center;
+}
+
+.donate-box3 {
+    width: 200px;
+    height: 200px;
+    background-color: darksalmon;
+    text-align: center;
+}
+
+.donate-box img {
+    display: block;
+    height: 30px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
