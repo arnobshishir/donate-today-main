@@ -34,7 +34,7 @@
 }
 
 .bg-container p {
-    font-size: 20px;
+    font-size: 22px;
     color: white;
     padding: 10px 0px;
     line-height: 30px;
@@ -67,10 +67,14 @@
 }
 
 .donate {
-    text-align: center;
-    font-size: 18px;
+    font-size: 22px;
     margin-top: 60px;
     margin-bottom: 30px;
+}
+
+.donate h2 {
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 
@@ -117,14 +121,15 @@ hr {
 }
 
 .top-donate-plan h2 {
-    font-size: 30px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-top: 60px;
 }
 
 .top-donate-plan p {
     margin-top: 10px;
     margin-bottom: 30px;
-    font-size: 18px;
+    font-size: 22px;
 }
 
 .donate-box {
@@ -178,4 +183,68 @@ hr {
 
 .half-width img {
     width: 95%;
+}
+
+.half-width p {
+    font-size: 22px;
+}
+
+.half-width h2 {
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.subscription {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 80px;
+
+}
+
+.mail-text h2 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.mail-text p {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-size: 22px;
+}
+
+.mail-box {
+    background-color: blanchedalmond;
+    margin: 0 auto;
+    padding: 45px 135px;
+
+}
+
+form {
+    margin: 0;
+}
+
+.sub-button {
+    background: tomato;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 25px;
+
+}
+
+input {
+    background: rgb(203, 199, 199);
+    border: none;
+    height: 35px;
+    width: 270px;
+    padding-left: 10px;
+
+}
+
+button a {
+    color: #fff;
+    font-size: 14px;
 }
