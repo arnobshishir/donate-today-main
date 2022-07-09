@@ -136,29 +136,30 @@ hr {
 
     display: flex;
     justify-content: space-evenly;
-    margin-top: 30px;
+
 }
 
 .donate-box1 {
 
     width: 250px;
     height: 250px;
-    background-color: aqua;
+    background-color: rgba(208, 252, 252, 0.637);
     text-align: center;
+
 }
 
 .donate-box2 {
 
     width: 250px;
     height: 250px;
-    background-color: bisque;
+    background-color: rgba(255, 228, 196, 0.519);
     text-align: center;
 }
 
 .donate-box3 {
     width: 250px;
     height: 250px;
-    background-color: darksalmon;
+    background-color: rgba(249, 187, 107, 0.388);
     text-align: center;
 }
 
@@ -247,4 +248,22 @@ input {
 button a {
     color: #fff;
     font-size: 14px;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    height: 100px;
+    padding: 18px;
+}
+
+footer h2 {
+    font-family: 'Cookie', cursive;
+    font-size: 34px;
+    color: tomato;
+
+}
+
+footer p {
+    color: white;
 }
